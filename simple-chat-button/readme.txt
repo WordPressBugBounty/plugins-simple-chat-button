@@ -3,8 +3,8 @@ Contributors: seramo
 Donate link: https://seramo.ir
 Tags: whatsapp, whatsapp business, whatsapp chat, woocommerce whatsapp, chat
 Requires at least: 3.7
-Tested up to: 6.8
-Stable tag: 1.9.1
+Tested up to: 6.9
+Stable tag: 1.9.2
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -13,11 +13,11 @@ WhatsApp Chat Button - Display the beautiful WhatsApp Sticky Button on the WordP
 
 == Description ==
 
-WhatsApp Chat Button ( Simple Chat Button ) is the Fastest (No use JavaScript), Lightweight and Very Simple WordPress plugin that displays the beautiful WhatsApp Sticky Button on the WordPress frontend.
+WhatsApp Chat Button (Simple Chat Button) is the Fastest (No use JavaScript), Lightweight and Very Simple WordPress plugin that displays the beautiful WhatsApp Sticky Button on the WordPress frontend.
 
 After clicking on the WhatsApp Sticky Button, It will bring you to the WhatsApp application.
 
-[Demo](https://wordpress.org/plugins/simple-chat-button/?preview=1)
+[Live Demo](https://wordpress.org/plugins/simple-chat-button/?preview=1)
 
 == WhatsApp Chat ==
 
